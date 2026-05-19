@@ -114,8 +114,8 @@ export const portfolioData = {
       description:
         "Full e-commerce with cart, checkout, payment, and admin dashboard.",
       stack: ["MERN Stack", "Stripe API", "Redux Toolkit", "Cloudinary", "JWT"],
-      github: "https://github.com/mdimranalam",
-      demo: "https://bazaarhubfashion.netlify.app/",
+      github: "https://github.com/DazzlingCodeWith-imran/bazar-hub",
+      demo: "https://bazar-hub-five.vercel.app/",
     },
     {
       id: "proj-4",
@@ -123,7 +123,7 @@ export const portfolioData = {
       description:
         "Modern portfolio site with gallery, booking, and SEO optimization.",
       stack: ["React.js", "Tailwind CSS", "Framer Motion", "Node.js", "MongoDB"],
-      github: "https://github.com/mdimranalam",
+      github: "https://github.com/DazzlingCodeWith-imran/photography-studio",
       demo: "https://photography-studio-j62f.vercel.app/",
     },
     {
@@ -183,8 +183,39 @@ export const portfolioData = {
     "JavaScript",
     "jQuery"
   ],
-  github: "PRIVATE REPOSITORY",
+  github: "https://github.com/DazzlingCodeWith-imran/growthhouse",
   demo: "https://growth-house-it-solution.vercel.app/",
+},
+
+{
+  id: "proj-8",
+  title: "Nexa AI",
+  description:
+    "Premium AI SaaS platform website designed for modern businesses to automate workflows, customer intelligence, predictive analytics, compliance monitoring, and AI-powered support systems. Features advanced dashboard UI, responsive layouts, pricing tables, testimonials, integrations, FAQ sections, animated business statistics, and a modern enterprise-focused user experience.",
+  stack: [
+    "React.js",
+    "Tailwind CSS",
+    "JavaScript",
+    "Framer Motion",
+    "Responsive Design"
+  ],
+  github: "https://github.com/DazzlingCodeWith-imran/nexa-ai-landing-page",
+  demo: "https://nexa-ai-landing-page.vercel.app//",
+},
+{
+  id: "proj-9",
+  title: "VertexStudio",
+  description:
+    "Premium digital product agency website focused on SaaS development, AI automation, dashboard systems, mobile apps, and enterprise-grade digital solutions. Features modern UI/UX, animated business dashboards, case studies, pricing sections, AI insights, responsive layouts, interactive workflows, and a high-end tech agency experience inspired by world-class SaaS platforms.",
+  stack: [
+    "React.js",
+    "Tailwind CSS",
+    "JavaScript",
+    "Framer Motion",
+    "Responsive Design"
+  ],
+  github: "https://github.com/DazzlingCodeWith-imran/vertex-studio-agency",
+  demo: "https://vertex-studio-agency.vercel.app/",
 },
   ],
 };
