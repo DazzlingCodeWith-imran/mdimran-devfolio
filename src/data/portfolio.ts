@@ -106,7 +106,7 @@ export const portfolioData = {
         "Complete school platform: student/teacher/admin roles, attendance, grades.",
       stack: ["React.js", "Express.js", "MongoDB", "RBAC", "Tailwind CSS"],
       github: "https://github.com/mdimranalam",
-      demo: "amondwelfare.in/login",
+      demo: "https://diamondwelfare.in/login",
     },
     {
       id: "proj-3",
@@ -216,6 +216,22 @@ export const portfolioData = {
   ],
   github: "https://github.com/DazzlingCodeWith-imran/vertex-studio-agency",
   demo: "https://vertex-studio-agency.vercel.app/",
+},
+{
+  id: "proj-9",
+  title: "SamirTech Infra Solutions",
+  description:
+    "A premium infrastructure and engineering company website built for SamirTech Infra Solutions, showcasing electrical panel installations, banking infrastructure, structured cabling, networking solutions, UPS power redundancy, and turnkey enterprise projects. Features a modern corporate design, responsive layouts, service showcases, leadership section, client testimonials, project highlights, and professional business branding focused on critical infrastructure and engineering excellence.",
+  stack: [
+    "React.js",
+    "Tailwind CSS",
+    "JavaScript",
+    "Framer Motion",
+    "Responsive Design",
+    "Vercel"
+  ],
+  github: "https://github.com/DazzlingCodeWith-imran/samirtech-infra-solutions",
+  demo: "https://samirtech-infra-solutions.vercel.app/",
 },
   ],
 };
