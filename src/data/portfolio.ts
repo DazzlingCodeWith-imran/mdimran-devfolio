@@ -115,7 +115,7 @@ export const portfolioData = {
         "Full e-commerce with cart, checkout, payment, and admin dashboard.",
       stack: ["MERN Stack", "Stripe API", "Redux Toolkit", "Cloudinary", "JWT"],
       github: "https://github.com/DazzlingCodeWith-imran/bazar-hub",
-      demo: "https://bazar-hub-five.vercel.app/",
+      demo: "https://bazar-hub-eight.vercel.app/",
     },
     {
       id: "proj-4",
